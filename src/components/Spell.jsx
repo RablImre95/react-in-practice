@@ -21,5 +21,3 @@ function Spell({ name, desc }) {
 }
 
 export default Spell;
-
-//rfce használata hogy megcsinálja az alapkódot
